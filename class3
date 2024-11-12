@@ -1,0 +1,33 @@
+<!doc type> 
+<html>
+<head>
+    <title>
+hi this is  the task of html
+ </title>
+</head>
+<body>
+    <!--TODO!ADD LINK TO TIGERS picture-->
+<p>cats are a special features</p>  
+<a href="#">image scr="c:/users/hp/downlod.jpg"alt="green areas</a>
+    <a href="https://www.google.com"target="_blank">this is a link to g-mail</a>
+    <ul>
+        <li>wild forest</li>
+        <li> national parks</li>
+    </ul>
+    <img src="c:/users/hp/downlod.jpg"alt="wild forest">
+    <img src="c:/users/hp/downlod.jpg"alt="national parks">
+    <h1>this is ruth web page</h1>
+    <h2>this is ruth web page</h2>
+    <h3>this is ruth web page</h3>
+    <h4>this is ruth web page</h4>
+    <h5>this is ruth web page</h5>
+    <h6>this is ruth web page</h6>
+    <pre>
+the origon of smart tigers
+the origon of smart tigers
+the origin of smart tigers      
+    </pre>
+ <button type="submit">submit</button>button>
+</footer>
+</body>  
+</html>
